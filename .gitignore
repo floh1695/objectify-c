@@ -1,5 +1,7 @@
 # General Output
 out
+*.out
+*.exe
 
 # Vim / Emacs
 *~
