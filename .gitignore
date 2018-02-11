@@ -1,12 +1,23 @@
-# General Output
+### General Output
 out
 *.out
 *.exe
 
-# Vim / Emacs
+### CMake
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+### Vim / Emacs
 *~
 \#*#
 
-# C
+### C
 *.o
 *.a
