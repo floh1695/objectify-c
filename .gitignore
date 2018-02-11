@@ -1,0 +1,10 @@
+# General Output
+out
+
+# Vim / Emacs
+*~
+\#*#
+
+# C
+*.o
+*.a
