@@ -2,6 +2,7 @@
 out
 *.out
 *.exe
+build/*
 
 ### CMake
 CMakeCache.txt
