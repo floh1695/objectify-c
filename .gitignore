@@ -2,7 +2,8 @@
 out
 *.out
 *.exe
-build/*
+build
+!build/Readme.md
 
 ### CMake
 CMakeCache.txt
