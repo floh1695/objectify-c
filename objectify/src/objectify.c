@@ -1,3 +1,5 @@
+#include "objectify.h"
+
 #include <stdio.h>
 
 void test(char *message) {
